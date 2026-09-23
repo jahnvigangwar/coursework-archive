@@ -51,7 +51,7 @@ The following AI projects remain standalone so they can be developed and documen
 
 ## Other courses
 
-The account also has a Probability and Statistics fork: [UCS410-Probability-Stats](https://github.com/jahnvigangwar/UCS410-Probability-Stats). Its tracked assignments are attributed to the upstream repository, so they are not copied here as personal work. I found no Computer Networks repository in the current account inventory.
+The Probability and Statistics course materials are in [the upstream UCS410 course repository](https://github.com/Arnav-Barman/UCS410-Probability-Stats). The account's fork contains upstream-authored assignments, so they are not copied here as personal work. I found no Computer Networks repository in the current account inventory.
 
 ## How to use this archive
 
