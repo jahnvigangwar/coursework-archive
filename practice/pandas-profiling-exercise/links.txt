@@ -1,0 +1,2 @@
+documentation: https://ydata-profiling.ydata.ai/docs/master/pages/getting_started/quickstart.html
+harry: https://www.youtube.com/watch?v=sGQfiyXOvF0&list=PLu0W_9lII9ajY2vEMIiSQBHqKB6IyX3pv&index=23

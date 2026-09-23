@@ -1,0 +1,11 @@
+applications:
+  - name: jahnvi
+    routes:
+      - route: jahnvi.eu-gb.mybluemix.net
+    memory: 128M
+    buildpack: python_buildpack
+  - name: jahnvi-nginx
+    routes:
+      - route: jahnvi.eu-gb.mybluemix.net/static
+    memory: 128M
+    buildpack: staticfile_buildpack

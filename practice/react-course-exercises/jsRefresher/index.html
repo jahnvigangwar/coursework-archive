@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        "use strict";
+        let a = 34;
+        console.log(a);
+
+        // console.log(this)
+        // function myfunc(num)
+        //     {
+        //         console.log("the number is" + this);
+        //     }
+
+        let myfunc = (number)=>
+        {
+            console.log("the number is" + this);
+        }
+        myfunc();
+
+
+        setTimeout(()=> {
+            console.log("yayyy");
+        }, 3000);
+
+        console.log("neeche wli script");
+    </script>
+</head>
+<body>
+    i am learning js
+</body>
+</html> 
