@@ -29,6 +29,7 @@ A curated home for university coursework, class projects, online-course exercise
 - [IBM Watson NLU sentiment analysis exercise.](online-courses/watson-nlu-sentiment-analysis) — A course exercise using Watson Natural Language Understanding.
 - [Cloud application development capstone.](online-courses/cloud-app-development-capstone) — A course capstone combining a web application and cloud deployment concepts.
 - [JPMorgan Chase rewards converter exercise.](online-courses/rewards-converter) — A small conversion utility from an online software engineering program.
+- [IBM Developer Skills Network exercises.](online-courses/ibm-developer-skills-network-exercises) — Attributed CSS and interest-calculator practice; the folder README identifies the original authors.
 
 ## Framework and programming practice
 
@@ -51,7 +52,9 @@ The following AI projects remain standalone so they can be developed and documen
 
 ## Other courses
 
-The Probability and Statistics course materials are in [the upstream UCS410 course repository](https://github.com/Arnav-Barman/UCS410-Probability-Stats). The account's fork contains upstream-authored assignments, so they are not copied here as personal work. I found no Computer Networks repository in the current account inventory.
+- [Probability and Statistics course reference.](college-projects/probability-and-statistics) — The account's fork contains upstream-authored assignments; this archive links to the original course rather than presenting those files as personal work.
+
+I found no Computer Networks repository in the account inventory.
 
 ## How to use this archive
 
