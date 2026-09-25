@@ -1,5 +1,8 @@
-# Probability and Statistics course reference
+# Probability and Statistics
 
-This entry records the Probability and Statistics course without copying assignments into the archive.
+This course entry belongs in the coursework archive. The personal account's fork is an upstream-authored course repository, so the assignment files are not copied here or presented as original work.
 
-The account's [UCS410 fork](https://github.com/jahnvigangwar/UCS410-Probability-Stats) contains assignments and experiment reports authored by Arnav Barman. They are not represented here as Jahnvi's work. See [the upstream course repository](https://github.com/Arnav-Barman/UCS410-Probability-Stats) for the original materials.
+- [Course repository by Arnav Barman](https://github.com/Arnav-Barman/UCS410-Probability-Stats)
+- [Fork previously associated with this account](https://github.com/jahnvigangwar/UCS410-Probability-Stats)
+
+Use the original repository for its assignments and experiment reports. This page keeps the subject visible in the archive while preserving clear authorship.
