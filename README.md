@@ -14,7 +14,6 @@ A curated collection of university work, course exercises, hackathon material, a
 - [Probability and Statistics](college-projects/probability-and-statistics/README.md) is indexed here; its original assignment material remains linked to its author.
 - [MERN food-ordering practice app](practice/mernapp/) is a small full-stack learning prototype.
 - [Character recommendation app](https://github.com/jahnvigangwar/character-recommendation-app) remains a standalone project so it can be reviewed and improved independently.
-- [Hacktu](https://github.com/jahnvigangwar/hacktu) is a separate private hackathon repository.
 
 This archive preserves selected files rather than importing each source repository's Git history. Secrets, local databases, caches, virtual environments, generated notebook outputs, course handouts, datasets, sample audio, and model weights are omitted where appropriate. Original attribution and license files are preserved when present. See each project README for its source, setup limits, and any missing inputs.
 
